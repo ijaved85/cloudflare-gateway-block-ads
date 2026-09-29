@@ -3941,6 +3941,7 @@ ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
 ads-interfaces.sc-cdn.net
 ads-leaseweb.appsgeyser.com
+ads-library.globo.com
 ads-m.rustore.ru
 ads-marketing-vivofs.vivo.com.cn
 ads-media.gameforge.com
@@ -4259,7 +4260,6 @@ ads.sparkflow.net
 ads.sportradar.com
 ads.sportslocalmedia.com
 ads.stardima.com
-ads.starzd.online
 ads.starzd.pro
 ads.suckhoegiadinh.com.vn
 ads.sun.com
