@@ -4293,6 +4293,7 @@ ads.tvmnews.mt
 ads.tvp.pl
 ads.tvpl.vn
 ads.twdcgrid.com
+ads.twitch.tv
 ads.ultimate-guitar.com
 ads.ultraviewer.net
 ads.uncrate.com
@@ -17808,7 +17809,6 @@ edcc0994fe.com
 eddebbwhhdcor.space
 edeclineryb.org
 edenai.go2cloud.org
-edge.ads.twitch.tv
 edge.xtriks.com
 edgeadserver-delivery.reviveservers.com
 edgeio.com
@@ -38697,7 +38697,7 @@ q2i8kd5n.de
 q2tqrsh02.com
 q31cwh.5l7kmfxje2933jb8pi1x1cz.cyou
 q3b8j7.uthqnrwntwqxg8h8h1wgx5b.cyou
-q3ei4f.rophim10.day
+q3ei4f.rophim10.shop
 q4173l5op.com
 q47u5jeg.x5qjv9hxu7eugfueezpfk.cyou
 q4n81cffibrmcimlirmnoli65gwh9i7ty.cfd
